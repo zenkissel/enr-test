@@ -12,6 +12,8 @@
   "dependencies": {
     "express": "3.2.6",
     "jade": "*",
+    "request": "2.62.0",
+    "require-dir": "0.3.0",
     "restify": "4.0.2"
   }
 }
